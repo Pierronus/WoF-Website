@@ -1,0 +1,41 @@
+.topnav {
+    color: white;
+    overflow: hidden;
+    border-bottom: 1px transparent white;
+    padding-right: 100px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: transparent;
+    color: white;
+    border-bottom: 3px solid white;
+  }
+  
+  .topnav a.active {
+    background-color: transparent;
+    color: white;
+    border-bottom: 3px solid white;
+    }
+
+  .backgroundbody {
+    background: url(gradientblue.jpg);
+  }
+
+
+  .textbody {
+    font-family: Arial; 
+    font-weight: bold; 
+  }
+
+  .joindiscord {
+    text-decoration: none;
+  }
